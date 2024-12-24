@@ -1,0 +1,11 @@
+Movie-Rating-Prediction/
+├── data/
+│   └── IMDb-Movies-India.csv  # Place the dataset here
+├── notebooks/
+│   └── movie_rating_analysis.ipynb  # Jupyter notebook for analysis
+├── src/
+│   ├── data_preprocessing.py  # Data cleaning and preprocessing code
+│   ├── feature_engineering.py  # Feature engineering code
+│   └── model_training.py        # Model training code
+├── requirements.txt             # List of dependencies
+└── README.md                     # Project documentation
